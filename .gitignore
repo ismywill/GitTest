@@ -197,9 +197,9 @@ enc_temp_folder/
 
 # Ignore content folders
 
-!Content/Flying/
-!Content/FlyingCPP/
-!Content/Geometry/
+!Content/Flying/*
+!Content/FlyingCPP/*
+!Content/Geometry/*
 Content/
 
 # Ignore DDC
