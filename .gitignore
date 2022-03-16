@@ -196,7 +196,7 @@ Engine/Binaries/Android/packageInfo.txt
 enc_temp_folder/
 
 # Ignore content folders
-!/Content/Flying/
+!/Content/*
 
 
 # Ignore DDC
